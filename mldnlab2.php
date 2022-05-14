@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Лабораторная работа №2</title>
     <link rel="stylesheet" href="styles.css">
-    <script type="text/javascript" src="scripts_lab2.js"></script>
+    <script type="text/javascript" src="scripts/scripts_lab2.js"></script>
 </head>
 <body>
 <h1>Лабораторная работа №2</h1>

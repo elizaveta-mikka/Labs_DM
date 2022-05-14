@@ -234,15 +234,14 @@ function transit () {
     if (x == p)
         document.getElementById('tran_prop').value = 'нет';
     else
-        if ((k==t)&(k!=0))
-            document.getElementById('tran_prop').value = 'есть';
-        else
-            document.getElementById('tran_prop').value = 'нет';
+    if ((k==t)&(k!=0))
+        document.getElementById('tran_prop').value = 'есть';
+    else
+        document.getElementById('tran_prop').value = 'нет';
 
 }
 
 /*
-
  */
 function properties() {
     let a = document.getElementById('pairs_el');
