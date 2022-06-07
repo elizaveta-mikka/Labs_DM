@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc9a29cb-1122-416f-9878-8493fd8c238e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/mldnlab3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mldnlab4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mldnlab5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/scripts_lab3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/scripts_lab4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/scripts_lab5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/scripts_lab1.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/scripts_lab1.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28qHzDoRBFzNsgUlqNtOhaBW85h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/OpenServer/domains/DMLabs&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\DMLabs" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc9a29cb-1122-416f-9878-8493fd8c238e" name="Changes" comment="" />
+      <created>1651937455273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651937455273</updated>
+      <workItem from="1651937456435" duration="19000" />
+      <workItem from="1651937666781" duration="227000" />
+      <workItem from="1651938122137" duration="8000" />
+      <workItem from="1652179143792" duration="12688000" />
+      <workItem from="1652290587262" duration="4826000" />
+      <workItem from="1652369068719" duration="7530000" />
+      <workItem from="1652444201410" duration="10677000" />
+      <workItem from="1652524313671" duration="4709000" />
+      <workItem from="1652533075109" duration="124000" />
+      <workItem from="1652533211120" duration="113000" />
+      <workItem from="1652538878509" duration="59000" />
+      <workItem from="1652540547952" duration="72000" />
+      <workItem from="1652548665635" duration="4322000" />
+      <workItem from="1652871418588" duration="1720000" />
+      <workItem from="1652990505846" duration="6044000" />
+      <workItem from="1653042075330" duration="8537000" />
+      <workItem from="1653073229317" duration="13000" />
+      <workItem from="1653338938658" duration="28000" />
+      <workItem from="1654005660266" duration="10804000" />
+      <workItem from="1654075018283" duration="9886000" />
+      <workItem from="1654265851115" duration="8058000" />
+      <workItem from="1654282980091" duration="15000" />
+      <workItem from="1654351818669" duration="1846000" />
+      <workItem from="1654418796202" duration="15648000" />
+      <workItem from="1654519213316" duration="2849000" />
+      <workItem from="1654613947086" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
